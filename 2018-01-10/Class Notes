@@ -1,0 +1,23 @@
+Linear Regression: Predicts Continuous data.
+
+Categorical / Discrete
+Continuous - Uses Linear Regression to predict future
+
+y axis - What you want to predict
+x axis - Data used to make prediction (feature or 'predictor')
+
+Simple Linear Regression - Uses ONE feature to predict the future.
+Multiple Linear Regression - Uses more than one predictor to determine the future.
+
+Beta Values - 
+
+y = mx + b
+
+y = $ amount
+m = slope
+x = sq. footage
+b = y - intercept
+
+OLS - Ordinary Least Squares - 
+
+http://setosa.io/ev/ordinary-least-squares-regression/
